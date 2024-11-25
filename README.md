@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @txpetrin
-- 👀 I’m interested in Computer Science Internships beginning Summer 2022
-- 🌱 I’m currently learning Java, C, C++, and SQL
-- 📫 How to reach me: Email txpetrin@mtu.edu
+- 👀 I’m interested in Data Scientist roles beginning Summer 2025
+- 🌱 Learned Languages: Java, C, C++, SQL, Python
+- 📫 How to reach me: Email petrint@bc.edu
 
 <!---
 txpetrin/txpetrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
